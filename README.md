@@ -9,11 +9,12 @@ Je suis un développeur passionné spécialisé en PHP et JavaScript. J'aime cr�
 - **Bases de données** : MySQL
 - **Outils** : Git, Composer, npm -->
 
-<!-- ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tendry-rakoto-8685802a7/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/rayan.andria.92)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tendry-Rkt56)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.tendryzephyrin@gmail.com) -->
+## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/-?logo=linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/tendry-rakoto-8685802a7/)
+[![Facebook](https://img.shields.io/badge/-?logo=facebook&logoColor=white&style=social)](https://web.facebook.com/rayan.andria.92)
+[![GitHub](https://img.shields.io/badge/-?logo=github&logoColor=white&style=social)](https://github.com/Tendry-Rkt56)
+[![Email](https://img.shields.io/badge/-?logo=gmail&logoColor=white&style=social)](mailto:votre.tendryzephyrin@gmail.com)
+
 
 
 ## Languages and Tools:
