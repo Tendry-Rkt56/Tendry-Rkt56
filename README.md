@@ -10,10 +10,11 @@ Je suis un développeur passionné spécialisé en PHP et JavaScript. J'aime cr�
 - **Outils** : Git, Composer, npm -->
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/tendry-rakoto-8685802a7/)
-[![Facebook](https://img.shields.io/badge/-Facebook?style=for-the-badge&logo=facebook&logoColor=white&color=1877F2)](https://web.facebook.com/rayan.andria.92)
-[![GitHub](https://img.shields.io/badge/-GitHub?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/Tendry-Rkt56)
-[![Email](https://img.shields.io/badge/-Gmail?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)](mailto:votre.tendryzephyrin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tendry-rakoto-8685802a7/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/rayan.andria.92)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Tendry-Rkt56)
+[![Email](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:votre.tendryzephyrin@gmail.com)
+
 
 
 
