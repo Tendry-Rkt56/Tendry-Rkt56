@@ -29,6 +29,7 @@ Je suis un développeur passionné spécialisé en PHP et JavaScript. J'aime cr�
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Twig](https://img.shields.io/badge/Twig-2B2A29?style=for-the-badge&logo=twig&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 N'hésitez pas à explorer mes projets et à me faire part de vos retours !
